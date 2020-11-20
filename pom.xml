@@ -4,6 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <component name="CheckStyle-IDEA-Module">
+        <option name="configuration">
+            <map/>
+        </option>
+    </component>
+    <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+
     <groupId>org.example</groupId>
     <artifactId>Search-Engine-Lucene</artifactId>
     <version>1.0-SNAPSHOT</version>
